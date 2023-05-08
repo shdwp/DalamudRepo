@@ -3,18 +3,18 @@
         "Author": "ascclemens, shdwp",
         "Name": "Chat 2.5",
         "Punchline": "Fork of the Chat2 adding features and fixes.",
-        "Description": "Replacement of the standard chat. Fork of Chat 2.",
+        "Description": "Replacement of the standard chat. Fork of Chat 2. \nMost of existing features, plus:\n- Person-specific tabs for /tells\n- RP markup formatting\n- Chat tab colors\n- QoL features for non-latin keyboard layouts\n- Hotkeys to switch tabs (Alt+Arrows)\n- Overhauled UI\n- Better unicode support\n- More bugs!",
         "InternalName": "ChatTwoFive",
-        "AssemblyVersion": "2.0.1.0",
+        "AssemblyVersion": "2.0.2.0",
         "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
+        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
         "DownloadCount": 0,
-        "LastUpdate": "1683573370"
+        "LastUpdate": "1683578593"
     }
 ]

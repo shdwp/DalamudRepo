@@ -4,7 +4,7 @@ import requests
 from time import time
 from sys import argv
 
-DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/shdwp/DalamudRepo/raw/main/plugins/{}/latest.json'
 GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
 
 DEFAULTS = {
@@ -67,7 +67,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest['RepoUrl'], manifest['AssemblyVersion'])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest['InternalName'])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -77,7 +77,7 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = get_release_download_count('shdwp', manifest["InternalName"], manifest['AssemblyVersion'])
+        manifest['DownloadCount'] = get_release_download_count('shdwp', manifest['InternalName'], manifest['AssemblyVersion'])
 
 def get_release_download_count(username, repo, id):
     r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
