@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "ascclemens, shdwp",
+        "Name": "Chat 2.5",
+        "Punchline": "Chat2 + \u0444i\u043a\u0441\u0438 \u0434\u043b\u044f \u0443\u043a\u0440\u0430-\u043a\u043e\u043c'\u044e\u043di\u0442i",
+        "Description": "\u0417\u0430\u043ci\u043d\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u043e\u0433\u043e \u0447\u0430\u0442\u0443.\n\u0414\u043e\u0434\u0430\u0442\u043a\u043e\u0432i \u0444i\u043a\u0441\u0438 \u0434\u043b\u044f \u043fi\u0442\u0440\u0438\u043c\u043a\u0438 \u043c\u043e\u0432\u0438 \u0432i\u0434 \u041f\u0438\u043b\u0438\u043f\u0430 \u041e\u0440\u043b\u0438\u043a\u0430.",
+        "Changelog": null,
+        "InternalName": "ChatTwo",
+        "AssemblyVersion": "2.0.0.0",
+        "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
+        "ApplicableVersion": "any",
+        "Tags": null,
+        "CategoryTags": null,
+        "DalamudApiLevel": 8,
+        "IconUrl": null,
+        "ImageUrls": null,
+        "DownloadLinkInstall": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shdwp/ChatTwoFive/releases/download/v2.0.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1683526741"
+    }
+]
