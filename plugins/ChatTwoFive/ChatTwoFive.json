@@ -11,6 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",
   "Punchline": "Fork of the Chat2 adding features and fixes.",
   "AcceptsFeedback": false,
   "FeedbackMessage": "Sorry, not at this time."

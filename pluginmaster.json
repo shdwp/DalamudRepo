@@ -9,6 +9,7 @@
         "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",
         "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
