@@ -9,11 +9,11 @@
         "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
+        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
-        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.json",
+        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1683578593"
     }

@@ -4,7 +4,7 @@ import requests
 from time import time
 from sys import argv
 
-DOWNLOAD_URL = 'https://github.com/shdwp/DalamudRepo/raw/main/plugins/{}/latest.json'
+DOWNLOAD_URL = 'https://github.com/shdwp/DalamudRepo/raw/main/plugins/{}/latest.zip'
 GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
 
 DEFAULTS = {
