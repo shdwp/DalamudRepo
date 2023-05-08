@@ -1,0 +1,16 @@
+{
+  "Author": "ascclemens, shdwp",
+  "Name": "Chat 2.5",
+  "InternalName": "ChatTwoFive",
+  "AssemblyVersion": "2.0.1.0",
+  "Description": "Replacement of the standard chat. Fork of Chat 2.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Fork of the Chat2 adding features and fixes.",
+  "AcceptsFeedback": false,
+  "FeedbackMessage": "Sorry, not at this time."
+}
