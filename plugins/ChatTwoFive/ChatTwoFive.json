@@ -2,7 +2,7 @@
   "Author": "ascclemens, shdwp",
   "Name": "Chat 2.5",
   "InternalName": "ChatTwoFive",
-  "AssemblyVersion": "2.0.2.1",
+  "AssemblyVersion": "2.0.3.0",
   "Description": "Replacement of the standard chat. Fork of Chat 2. \nMost of existing features, plus:\n- Person-specific tabs for /tells\n- RP markup formatting\n- Chat tab colors\n- QoL features for non-latin keyboard layouts\n- Hotkeys to switch tabs (Alt+Arrows)\n- Overhauled UI\n- Better unicode support\n- More bugs!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
