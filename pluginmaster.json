@@ -19,33 +19,22 @@
         "LastUpdate": "1702677229"
     },
     {
-        "Author": "apetih",
-        "Name": "RTyping",
-        "Punchline": "Let people know when you r typing.",
-        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
-        "Changelog": null,
+        "Author": "shdwp",
+        "Name": "rtyping_test",
+        "Punchline": "Blank",
+        "Description": "Blank",
         "InternalName": "rtyping",
-        "AssemblyVersion": "0.1.0.1",
-        "RepoUrl": "https://github.com/apetih/rtyping",
+        "AssemblyVersion": "3.0.0.0",
+        "RepoUrl": "Blank",
         "ApplicableVersion": "any",
-        "Tags": [
-            "chat",
-            "indicator",
-            "typing"
-        ],
-        "CategoryTags": [
-            "ui",
-            "utility"
-        ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
-        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",
         "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
         "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1702677229"
+        "LastUpdate": "1702677487"
     }
 ]
