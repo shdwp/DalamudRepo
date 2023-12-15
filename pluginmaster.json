@@ -21,11 +21,11 @@
     {
         "Author": "shdwp",
         "Name": "rtyping_test",
-        "Punchline": "Blank",
+        "Punchline": "rtyping test",
         "Description": "Blank",
         "InternalName": "rtyping",
         "AssemblyVersion": "3.0.0.0",
-        "RepoUrl": "Blank",
+        "RepoUrl": "https://github.com/shdwp/DalamudRepo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",

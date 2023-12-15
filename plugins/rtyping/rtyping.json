@@ -5,14 +5,14 @@
   "AssemblyVersion": "3.0.0.0",
   "Description": "Blank",
   "ApplicableVersion": "any",
-  "RepoUrl": "Blank",
+  "RepoUrl": "https://github.com/shdwp/DalamudRepo",
   "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",
-  "Punchline": "Blank",
+  "Punchline": "rtyping test",
   "AcceptsFeedback": false,
   "FeedbackMessage": "Sorry, not at this time."
 }
