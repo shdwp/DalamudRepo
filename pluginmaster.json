@@ -24,7 +24,7 @@
         "Punchline": "Let people know when you r typing.",
         "Description": "Allows other people using this plugin to see your typing status when in the same party.",
         "InternalName": "rtyping_fork",
-        "AssemblyVersion": "3.1.0.0",
+        "AssemblyVersion": "3.1.0.1",
         "RepoUrl": "https://github.com/apetih/rtyping",
         "ApplicableVersion": "any",
         "Tags": [
@@ -44,6 +44,6 @@
         "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping_fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping_fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1702680366"
+        "LastUpdate": "1702680641"
     }
 ]
