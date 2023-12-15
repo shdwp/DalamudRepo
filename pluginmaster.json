@@ -5,7 +5,7 @@
         "Punchline": "Fork of the Chat2 adding features and fixes.",
         "Description": "Replacement of the standard chat. Fork of Chat 2. \nMost of existing features, plus:\n- Person-specific tabs for /tells\n- RP markup formatting\n- Chat tab colors\n- QoL features for non-latin keyboard layouts\n- Hotkeys to switch tabs (Alt+Arrows)\n- Overhauled UI\n- Better unicode support\n- Built-in RTyping\n- More bugs!",
         "InternalName": "ChatTwoFive",
-        "AssemblyVersion": "2.0.2.3",
+        "AssemblyVersion": "2.0.2.5",
         "RepoUrl": "https://github.com/shdwp/ChatTwoFive",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -16,6 +16,36 @@
         "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
         "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/ChatTwoFive/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696703977"
+        "LastUpdate": "1702677229"
+    },
+    {
+        "Author": "apetih",
+        "Name": "RTyping",
+        "Punchline": "Let people know when you r typing.",
+        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
+        "Changelog": null,
+        "InternalName": "rtyping",
+        "AssemblyVersion": "0.1.0.1",
+        "RepoUrl": "https://github.com/apetih/rtyping",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chat",
+            "indicator",
+            "typing"
+        ],
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
+        "ImageUrls": null,
+        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1702677229"
     }
 ]
