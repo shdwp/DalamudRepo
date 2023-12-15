@@ -19,22 +19,31 @@
         "LastUpdate": "1702677229"
     },
     {
-        "Author": "shdwp",
-        "Name": "rtyping_test",
-        "Punchline": "rtyping test",
-        "Description": "Blank",
-        "InternalName": "rtyping",
+        "Author": "apetih",
+        "Name": "RTyping",
+        "Punchline": "Let people know when you r typing.",
+        "Description": "Allows other people using this plugin to see your typing status when in the same party.",
+        "InternalName": "rtyping_fork",
         "AssemblyVersion": "3.0.0.0",
-        "RepoUrl": "https://github.com/shdwp/DalamudRepo",
+        "RepoUrl": "https://github.com/apetih/rtyping",
         "ApplicableVersion": "any",
+        "Tags": [
+            "chat",
+            "indicator",
+            "typing"
+        ],
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudRepo/master/plugins/ChatTwoFive/thumb.png",
-        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/apetih/rtyping/main/res/img/icon.png",
+        "DownloadLinkInstall": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping_fork/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping/latest.zip",
+        "DownloadLinkTesting": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping_fork/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudRepo/raw/main/plugins/rtyping_fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1702677487"
+        "LastUpdate": "1702678923"
     }
 ]
